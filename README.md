@@ -9,7 +9,7 @@
 
 - Have Python 3 installed.
 - Run `rref.py` with `python rref.py` (or `python3 rref.py` if that doesn't work)
-- Follow program instructions. Program exits on illegal output (I'm lazy to loop input) so rerun the program if it suddenly exits.
+- Follow program instructions. Program exits on illegal input (I'm lazy to loop input) so rerun the program if it suddenly exits.
 - Take the output (below `==LATEX OUTPUT==`) and paste into a basic LaTeX template (you can run LaTeX online with [Overleaf](overleaf.com))
 - Compile.
 
